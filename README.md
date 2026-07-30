@@ -1,148 +1,213 @@
-<!-- ============================== -->
-<!--        PROFILE BANNER          -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+<!--                 PREMIUM GITHUB PROFILE README             -->
+<!--                  Created for Asif Rayhan                 -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="./ChatGPT Image Jul 30, 2026, 10_38_03 PM.png" width="100%" alt="Asif Rayhan Banner"/>
+<img src="YOUR_BANNER_URL_HERE" width="100%" alt="Asif Rayhan Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Asif Rayhan</h1>
+<h1 align="center">
+Hi 👋, I'm Asif Rayhan
+</h1>
 
 <h3 align="center">
-Full Stack Web Developer • Next.js • NestJS • Node.js
+🚀 Full Stack Web Developer
 </h3>
 
 <p align="center">
-Building scalable, secure, and high-performance web applications.
+Building Modern • Secure • Scalable Web Applications
+</p>
+
+<p align="center">
+
+<a href="mailto:amsiimf06@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01ed4003bea7ffe7b1">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 💻 Full Stack Web Developer from Bangladesh
-- ⚡ Specialized in **React, Next.js, Node.js & NestJS**
-- 🛠 Passionate about scalable backend architecture
-- 🗄 Experienced with PostgreSQL, Prisma & MongoDB
-- ☁ Currently learning Kubernetes, AWS, Kafka & Microservices
-- 🌍 Open to Remote Opportunities
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👨‍💻 Who Am I?
+
+I'm a passionate **Full Stack Web Developer** from Bangladesh.
+
+I enjoy building modern web applications that are:
+
+- Fast ⚡
+- Secure 🔒
+- Scalable 🚀
+- User Friendly ❤️
+
+I love learning new technologies and solving real-world problems with code.
+
+---
+
+## 🚀 Current Focus
+
+✔ Full Stack Development
+
+✔ Backend Architecture
+
+✔ Authentication Systems
+
+✔ Cloud Deployment
+
+✔ API Development
+
+✔ Clean Code
+
+✔ Performance Optimization
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+
+- AWS
+
+- Kafka
+
+- RabbitMQ
+
+- gRPC
+
+- Microservices
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,postgres,mongodb,docker,aws,kubernetes,git,github,tailwind,vscode&perline=8"/>
+<p>
 
-</p>
+<img src="https://skillicons.dev/icons?i=html"/>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma,kafka,rabbitmq,redis,grpc"/>
+<img src="https://skillicons.dev/icons?i=js"/>
 
-</p>
+<img src="https://skillicons.dev/icons?i=ts"/>
 
----
+<img src="https://skillicons.dev/icons?i=react"/>
 
-# 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Backend
 
-<p align="center">
+<p>
 
-<img src="https://streak-stats.demolab.com?user=asifrayhanjoy&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-</p>
+<img src="https://skillicons.dev/icons?i=express"/>
 
----
+<img src="https://skillicons.dev/icons?i=nestjs"/>
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asifrayhanjoy&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://skillicons.dev/icons?i=prisma"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Database
 
-| Project | Description |
-|---------|-------------|
-| 🚚 Parcel Delivery Platform | Full Stack Parcel Management System |
-| 🛒 E-Commerce Platform | Next.js + NestJS + PostgreSQL |
-| 💼 Freelance Marketplace | Modern Freelancing Platform |
-| 🔐 Authentication System | JWT + OTP + Redis |
-| 📦 Inventory Management | Dashboard with Prisma |
-| 🌐 Personal Portfolio | Modern Developer Portfolio |
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-# 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-- Kubernetes
-- AWS
-- Kafka
-- RabbitMQ
-- Microservices
-- gRPC
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:amsiimf06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01ed4003bea7ffe7b1">
-<img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" width="42"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-</p>
-
-📧 Email: **amsiimf06@gmail.com**
-
-🌍 Location: **Bangladesh**
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=asifrayhanjoy&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://skillicons.dev/icons?i=redis"/>
 
 </p>
 
 ---
 
-# 💬 Quote
+## DevOps
 
-> **"Clean Code. Scalable Architecture. Continuous Learning."**
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
 
 ---
 
-<p align="center">
+## Tools
 
-⭐ If you like my work, consider giving a star to my repositories.
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
 
 </p>
+
+---
+
+## ⚡ Technologies I Love
+
+```text
+React.js
+Next.js
+NestJS
+Node.js
+Express.js
+TypeScript
+JavaScript
+PostgreSQL
+Prisma ORM
+MongoDB
+Docker
+Redis
+JWT
+REST API
+Tailwind CSS
+Git
+GitHub
+```
+
+---
+
+## 🎯 My Goal
+
+Become a world-class Full Stack Engineer and build products used by millions of users.
+
+---
