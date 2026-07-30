@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Asif Rayhan Banner"/>
+  <img src="file:///Users/asifrayhan/Desktop/ChatGPT%20Image%20Jul%2030,%202026,%2010_38_03%20PM.png" width="100%" alt="Asif Rayhan Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Asif Rayhan</h1>
@@ -13,7 +13,7 @@ Full Stack Web Developer • Next.js • NestJS • Node.js
 </h3>
 
 <p align="center">
-Building scalable, secure and high-performance web applications.
+Building scalable, secure, and high-performance web applications.
 </p>
 
 ---
