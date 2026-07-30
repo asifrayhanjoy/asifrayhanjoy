@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Asif Rayhan
 
-<!--
-**asifrayhanjoy/asifrayhanjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build scalable and modern web applications using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- React
+- Next.js
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- Prisma
+- MongoDB
+- Docker
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+- Kubernetes
+- AWS
+- Kafka
+- RabbitMQ
+- Microservices
+
+### 📫 Connect with Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 💻 Upwork
+- 📧 Email
+
+---
+⭐ Thanks for visiting my GitHub profile!
