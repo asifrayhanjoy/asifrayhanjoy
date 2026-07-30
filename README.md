@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Asif Rayhan Banner"/>
+  <img src="./ChatGPT Image Jul 30, 2026, 10_38_03 PM.png" width="100%" alt="Asif Rayhan Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Asif Rayhan</h1>
