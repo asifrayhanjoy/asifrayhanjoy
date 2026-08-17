@@ -113,7 +113,7 @@ Building scalable, secure and high-performance web applications.
 <img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" width="42"/>
 </a>
 
-<a href="https://www.linkedin.com/in/md-asif-rayhan-joy-81444042a/">
+<a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
