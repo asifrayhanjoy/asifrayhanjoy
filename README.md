@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="CoverPhoto.png" width="100%" alt="Asif Rayhan Banner"/>
+</p>
+
 # 👋 Hi, I'm Md. Asif Rayhan Joy
 
 ### 🚀 Frontend / Full-Stack Web Developer
