@@ -1,148 +1,428 @@
-<!-- ============================== -->
-<!--        PROFILE BANNER          -->
-<!-- ============================== -->
+<div align="center">
 
-<p align="center">
-  <img src="CoverPhoto.png" width="100%" alt="Asif Rayhan Banner"/>
-</p>
+# 👋 Hi, I'm Md. Asif Rayhan Joy
 
-<h1 align="center">Hi 👋, I'm Asif Rayhan</h1>
+### 🚀 Frontend / Full-Stack Web Developer
 
-<h3 align="center">
-Full Stack Web Developer • Next.js • NestJS • Node.js
-</h3>
+**React.js • Next.js • TypeScript • JavaScript • Node.js • Python • AI/RAG**
 
-<p align="center">
-Building scalable, secure and high-performance web applications.
-</p>
+<br/>
 
----
+<a href="https://portfolio-neon-omega-77.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-black?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/asifrayhanjoy">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 🚀 About Me
-
-- 💻 Full Stack Web Developer from Bangladesh
-- ⚡ Specialized in **React, Next.js, Node.js & NestJS**
-- 🛠 Passionate about scalable backend architecture
-- 🗄 Experienced with PostgreSQL, Prisma & MongoDB
-- ☁ Currently learning Kubernetes, AWS, Kafka & Microservices
-- 🌍 Open to Remote Opportunities
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
+I'm a **Frontend / Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building modern, responsive, scalable, and user-focused web applications.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,postgres,mongodb,docker,aws,kubernetes,git,github,tailwind,vscode&perline=8"/>
+My strongest area is **Frontend Development**, especially with:
 
-</p>
+* ⚛️ React.js
+* ▲ Next.js
+* 🔷 TypeScript
+* 🟨 JavaScript
+* 🎨 Tailwind CSS
+* 🧩 Component-Based Architecture
+* 📱 Responsive Web Development
 
-<p align="center">
+Alongside frontend development, I work across the full stack with **Node.js, Express.js, Python, REST APIs, authentication, databases, WebSocket, and AI-powered application development**.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma,kafka,rabbitmq,redis,grpc"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+I'm also interested in building **RAG and LLM-powered applications** and using AI-assisted development tools to improve software development workflows.
 
 ---
 
-# 🔥 GitHub Streak
+## 🧠 What I Do
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=asifrayhanjoy&theme=tokyonight&hide_border=true"/>
-
-</p>
+```text
+Frontend Development
+        ↓
+React.js + Next.js + TypeScript
+        ↓
+Responsive UI + Component Architecture
+        ↓
+REST APIs + Authentication + WebSocket
+        ↓
+Node.js + Express.js + Python
+        ↓
+PostgreSQL + MongoDB + Supabase + Prisma
+        ↓
+AI Applications + RAG + LLM Integration
+```
 
 ---
 
-# 🏆 GitHub Trophy
+# 🛠️ Tech Stack
 
-<p align="center">
+## 🎨 Frontend
 
-<img src="https://github-profile-trophy.vercel.app/?username=asifrayhanjoy&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 
 </p>
+
+### Core Frontend Skills
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Responsive Web Design
+* Component-Based Architecture
+* Frontend Architecture
+
+---
+
+## 🔄 State Management
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=redux" />
+
+</p>
+
+* React Context API
+* Redux
+* Zustand
+
+I choose state-management solutions based on application size, complexity, and requirements.
+
+---
+
+# ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,go" />
+
+</p>
+
+### Technologies
+
+* Node.js
+* Express.js
+* NestJS
+* Python
+* Go / Golang
+* REST APIs
+* JWT Authentication
+* Authorization
+* WebSocket
+* gRPC
+
+---
+
+# 🗄️ Database & Data
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+
+</p>
+
+### Technologies
+
+* PostgreSQL
+* MongoDB
+* Supabase
+* Prisma
+* Redis
+* Firebase
+
+### Experience
+
+* Database-driven applications
+* CRUD operations
+* Data modeling
+* ORM-based development
+* Authentication data flows
+* API/database integration
+* Real-time data
+* Caching
+
+---
+
+# 🤖 AI & RAG Development
+
+I'm actively building software that combines modern web technologies with AI.
+
+### 🧠 AI Capabilities
+
+* Retrieval-Augmented Generation (RAG)
+* LLM Integration
+* Retrieval Pipelines
+* Embeddings
+* Vector Search Concepts
+* Knowledge Base Applications
+* Document-Based AI Applications
+* AI-powered Question Answering
+* AI Application Backend Workflows
+
+### 🔥 RAG Workflow
+
+```text
+Documents / Knowledge Sources
+            ↓
+       Document Processing
+            ↓
+         Embeddings
+            ↓
+       Vector Search
+            ↓
+    Relevant Context Retrieval
+            ↓
+          LLM
+            ↓
+     AI Generated Response
+```
+
+---
+
+# 🤖 AI-Assisted Software Development
+
+AI-assisted development is an important part of my engineering workflow.
+
+### Tools I Work With
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
+
+</p>
+
+### I use AI for
+
+* 🔍 Codebase exploration
+* 🏗️ Feature implementation
+* 🐛 Debugging
+* ♻️ Refactoring
+* 🧪 Testing assistance
+* 🚀 Prototyping
+* 🔌 API implementation
+* 📚 Documentation
+* 🧠 Technical problem solving
+* ⚡ Development workflow automation
+
+> AI is a development assistant in my workflow — not a replacement for engineering judgment.
+
+I maintain control over:
+
+**Architecture • Security • Testing • Debugging • Code Quality • Technical Decisions • Final Implementation**
+
+---
+
+# 🏗️ Backend & Distributed Systems
+
+### Working Knowledge / Exposure
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,rabbitmq,aws" />
+
+</p>
+
+* Microservices
+* Service-Based Architecture
+* API Gateway
+* gRPC
+* Kafka
+* RabbitMQ
+* Redis
+* Docker
+* Kubernetes
+* AWS
+* Nx Monorepo
+
+---
+
+# 🔐 Authentication & Real-Time
+
+I can work with:
+
+* JWT Authentication
+* Authorization
+* Role-Based Access Control
+* REST APIs
+* WebSocket
+* Real-Time Data
+* Secure Frontend/Backend Communication
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚚 Parcel Delivery Platform | Full Stack Parcel Management System |
-| 🛒 E-Commerce Platform | Next.js + NestJS + PostgreSQL |
-| 💼 Freelance Marketplace | Modern Freelancing Platform |
-| 🔐 Authentication System | JWT + OTP + Redis |
-| 📦 Inventory Management | Dashboard with Prisma |
-| 🌐 Personal Portfolio | Modern Developer Portfolio |
+## 🏠 Rentiful
+
+A modern rental-focused web application.
+
+**Tech Stack**
+
+`Next.js` `React.js` `TypeScript` `Tailwind CSS`
+
+🔗 **Repository:**
+https://github.com/asifrayhanjoy/Rentiful
 
 ---
 
-# 🌱 Currently Learning
+## 🛒 E-Commerce Platform
 
-- Kubernetes
-- AWS
-- Kafka
-- RabbitMQ
-- Microservices
-- gRPC
+A full-stack e-commerce platform with product, seller, admin, order-management, authentication, API integration, and database-driven functionality.
+
+**Tech Stack**
+
+`React.js` `Next.js` `Node.js` `Express.js` `REST API` `PostgreSQL` `MongoDB` `Prisma`
 
 ---
 
-# 📫 Connect With Me
+## 🏠 Next Thekana
 
-<p align="left">
+A team-based rental and service-focused web platform with property and hostel-related features.
 
-<a href="mailto:amsiimf06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+**Tech Stack**
+
+`Next.js` `React.js` `TypeScript` `REST API` `WebSocket`
+
+**Focus**
+
+`Responsive UI` `API Integration` `Real-Time Features` `Team Collaboration`
+
+---
+
+## 🧾 Invoice Generator
+
+A responsive invoice-generation web application with dynamic forms and invoice data management.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `TypeScript` `Tailwind CSS`
+
+---
+
+## 🏥 PH Healthcare
+
+A healthcare-focused web application with responsive frontend development and backend/API integration.
+
+**Tech Stack**
+
+`Frontend Development` `API Integration` `Responsive Web Development`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=asifrayhanjoy&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifrayhanjoy&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+⚛️ Advanced React.js
+▲ Next.js Architecture
+🔷 TypeScript
+🐍 Python
+🔗 Full-Stack Development
+🧠 RAG & AI Applications
+🤖 AI-Assisted Development
+🏗️ Backend Architecture
+☁️ Cloud & DevOps
+📐 System Design
+```
+
+---
+
+# 💡 Development Philosophy
+
+> Build simple.
+> Think scalable.
+> Write maintainable code.
+> Use AI intelligently.
+> Keep engineering decisions human-driven.
+
+I believe good software is not only about making something work — it's about building solutions that are **maintainable, understandable, scalable, and useful to real users**.
+
+---
+
+# 🌍 Languages
+
+* 🇧🇩 Bangla / Bengali
+* 🇬🇧 English
+* 🇮🇳 Hindi
+* 🕌 Urdu
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:mdasifrayhanjoy2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.upwork.com/freelancers/~01ed4003bea7ffe7b1">
-<img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" width="42"/>
+<a href="https://portfolio-neon-omega-77.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+<a href="https://github.com/asifrayhanjoy">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-📧 Email: **amsiimf06@gmail.com**
-
-🌍 Location: **Bangladesh**
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=asifrayhanjoy&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+</div>
 
 ---
 
-# 💬 Quote
+<div align="center">
 
-> **"Clean Code. Scalable Architecture. Continuous Learning."**
+### ⭐ Thanks for visiting my profile!
 
----
+**Let's build something useful together. 🚀**
 
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-</p>
+</div>
