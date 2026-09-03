@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Md. Asif Rayhan Joy
 
-### 🚀 Frontend / Full-Stack Web Developer
+### 🚀 Full-Stack Web Developer
 
 **React.js • Next.js • TypeScript • JavaScript • Node.js • Python • AI/RAG**
 
