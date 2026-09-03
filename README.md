@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="CoverPhoto.png" width="100%" alt="Asif Rayhan Banner"/>
+  <img src="ChatGPT Image Sep 3, 2026, 10_46_24 PM" width="100%" alt="Asif Rayhan Banner"/>
 </p>
 
 # 👋 Hi, I'm Md. Asif Rayhan Joy
