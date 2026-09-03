@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend / Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building modern, responsive, scalable, and user-focused web applications.
+I'm a Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building modern, responsive, scalable, and user-focused web applications.
 
 My strongest area is **Frontend Development**, especially with:
 
