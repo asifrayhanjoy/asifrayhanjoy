@@ -14,23 +14,21 @@
   <a href="https://portfolio-neon-omega-77.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:mdasifrayhanjoy2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/8801302271472">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
 <br/>
-
-<!-- GitHub Achievements / Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifrayhanjoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -39,9 +37,9 @@
 I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable web architectures with **React.js, Next.js, TypeScript, and Node.js**, alongside practical backend expertise in **Python, PostgreSQL, and Supabase**.
 
 - 💼 **Hands-On Experience:** Approximately **2 years of practical software engineering experience** across end-to-end web platforms, REST API architectures, and interactive client applications.
-- 🎯 **Leadership & Delivery:** Directed and coordinated a development team for **~1 year**, driving sprint planning, architectural alignment, code reviews, and resolving critical engineering blockers.
-- 🏗️ **Architectural Focus:** Component-driven design, secure authentication (JWT / RBAC), relational schema modeling via Prisma ORM, BaaS integration with Supabase, and low-latency real-time communication using WebSockets.
-- ⚡ **AI-Assisted Engineering:** Pragmatic utilization of modern AI development tooling (**Cursor, Claude Code, ChatGPT**) to rapidly explore codebases, refactor logic, and debug complex workflows while retaining full engineering judgment and code ownership.
+- 🎯 **Leadership & Delivery:** Directed and coordinated a development team for **~1 year**, driving sprint planning, architectural alignment, code reviews, and resolving critical engineering blockers[cite: 4, 7].
+- 🏗️ **Architectural Focus:** Component-driven design, secure authentication (JWT / RBAC), relational schema modeling via Prisma ORM, BaaS integration with Supabase, and low-latency real-time communication using WebSockets[cite: 4, 7].
+- ⚡ **AI-Assisted Engineering:** Pragmatic utilization of modern AI development tooling (**Cursor, Claude Code, ChatGPT**) to rapidly explore codebases, refactor logic, and debug complex workflows while retaining full engineering judgment and code ownership[cite: 3].
 - 📍 **Location:** Dhaka, Bangladesh.
 
 ---
@@ -108,9 +106,9 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
     <tr>
       <td><b>Full-Stack E-Commerce Platform</b></td>
       <td>
-        • Directed sprint delivery and development coordination for ~1 year.<br/>
-        • Architected customer, seller, and administrator portals with role-based access control (RBAC).<br/>
-        • Integrated Stripe checkout flows, automated order tracking, and PostgreSQL database queries via Prisma ORM.
+        • Directed sprint delivery and development coordination for ~1 year[cite: 4, 7].<br/>
+        • Architected customer, seller, and administrator portals with role-based access control (RBAC)[cite: 4, 7].<br/>
+        • Integrated Stripe checkout flows, automated order tracking, and PostgreSQL database queries via Prisma ORM[cite: 4, 7].
       </td>
       <td>
         <b>Team Lead & Full-Stack</b><br/>
@@ -120,9 +118,9 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
     <tr>
       <td><b>Next Thekana — Rental Platform</b></td>
       <td>
-        • Engineered real-time property and rental discovery interfaces.<br/>
-        • Implemented dynamic live communication updates using WebSockets.<br/>
-        • Built modular responsive components ensuring clean cross-device UI.
+        • Engineered real-time property and rental discovery interfaces[cite: 5, 9].<br/>
+        • Implemented dynamic live communication updates using WebSockets[cite: 5, 9].<br/>
+        • Built modular responsive components ensuring clean cross-device UI[cite: 5, 9].
       </td>
       <td>
         <b>Frontend & Collaborator</b><br/>
@@ -132,9 +130,9 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
     <tr>
       <td><b>Rentiful — Rental Web App</b></td>
       <td>
-        • Modern property exploration application built with clean architecture.<br/>
-        • Integrated responsive layouts, client routing, and state management.<br/>
-        • Optimized performance and component reusability.
+        • Modern property exploration application built with clean architecture[cite: 6].<br/>
+        • Integrated responsive layouts, client routing, and state management[cite: 6].<br/>
+        • Optimized performance and component reusability[cite: 6].
       </td>
       <td>
         <b>Frontend Developer</b><br/>
@@ -144,9 +142,9 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
     <tr>
       <td><b>Invoice Generator Application</b></td>
       <td>
-        • Dynamic calculation engine for line items, taxes, and discounts.<br/>
-        • Real-time form synchronization and print-ready document exports.<br/>
-        • Component-driven UI architecture with responsive design.
+        • Dynamic calculation engine for line items, taxes, and discounts[cite: 8].<br/>
+        • Real-time form synchronization and print-ready document exports[cite: 8].<br/>
+        • Component-driven UI architecture with responsive design[cite: 8].
       </td>
       <td>
         <b>Frontend Developer</b><br/>
@@ -161,19 +159,18 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
 ### 📊 GitHub Performance & Analytics
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifrayhanjoy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <!-- Working GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=asifrayhanjoy&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   
-  <!-- GitHub General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <!-- Working Fast GitHub Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-  
-  <!-- Dynamic Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifrayhanjoy&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph" />
+  <!-- Working Fast Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 </div>
 
 ---
