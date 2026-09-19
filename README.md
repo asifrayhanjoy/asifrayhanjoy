@@ -175,6 +175,40 @@ I am a **Full-Stack Web Developer & Team Lead** specializing in modern, scalable
 
 ---
 
+### 🎮 The Developer Arcade & Contribution Snake
+
+<div align="center">
+  <p><b>Watch the snake eat through my GitHub contribution history!</b></p>
+  
+  <!-- Contribution Grid Snake Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Quick Play Interactive Retro Games -->
+  <p><b>🕹️ Need a coding break? Play retro games directly in your browser:</b></p>
+
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🐍_Play_Classic_Snake-22c55e?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Snake"/>
+  </a>
+  &nbsp;
+  <a href="https://freepacman.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🟡_Play_Pac--Man-eab308?style=for-the-badge&logo=nintendo&logoColor=black" alt="Play Pacman"/>
+  </a>
+  &nbsp;
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/🟦_Play_Tetris-3b82f6?style=for-the-badge&logo=steam&logoColor=white" alt="Play Tetris"/>
+  </a>
+  &nbsp;
+  <a href="https://2048game.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🔢_Play_2048-a855f7?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play 2048"/>
+  </a>
+</div>
+
+---
+
 ### 🤝 Let's Connect & Build Scalable Software
 
 <div align="center">
