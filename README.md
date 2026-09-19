@@ -1,432 +1,89 @@
 <div align="center">
+  <!-- Dynamic Cover Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0f172a,100:0284c7&height=220&section=header&text=Md.%20Asif%20Rayhan%20Joy&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Developer%20%7C%20Team%20Lead%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&subfontSize=16&subfontColor=93c5fd" width="100%" alt="Md. Asif Rayhan Joy Banner"/>
 
-<p align="center">
-  <img src="ChatGPT Image Sep 3, 2026, 10_46_24 PM" width="100%" alt="Asif Rayhan Banner"/>
-</p>
+  <br/>
+  <br/>
 
-# 👋 Hi, I'm Md. Asif Rayhan Joy
-
-### 🚀 Full-Stack Web Developer
-
-**React.js • Next.js • TypeScript • JavaScript • Node.js • Python • AI/RAG**
+  <!-- Social / Contact Badges -->
+  <a href="https://portfolio-neon-omega-77.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdasifrayhanjoy2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 <br/>
 
-<a href="https://portfolio-neon-omega-77.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-black?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/asifrayhanjoy">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 👨‍💻 About Me
 
-</div>
+I am a **Full-Stack Web Developer & Team Lead** specializing in **React.js, Next.js, TypeScript, and Node.js**, with practical backend development in **Python, PostgreSQL, and Supabase**.
+
+- 🔭 **Experience:** Approximately **2 years of hands-on software development experience** building scalable, responsive, and data-driven web applications.
+- 👥 **Leadership:** Directed and coordinated a development team for **~1 year**, steering sprint milestones, technical reviews, and cross-functional delivery on production-style platforms.
+- ⚙️ **Engineering Focus:** Clean component architecture, secure authentication (JWT/RBAC), RESTful APIs, relational schema design with Prisma ORM, and real-time systems (WebSockets).
+- ⚡ **AI-Assisted Workflow:** Pragmatic use of modern AI tooling (**Cursor, Claude Code**) to accelerate exploration, debugging, and refactoring while retaining complete engineering ownership.
+- 📍 **Based in:** Dhaka, Bangladesh.
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack & Tooling
 
-I'm a Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building modern, responsive, scalable, and user-focused web applications.
+#### **Frontend & UI Architecture**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/State-Zustand%20%2F%20Redux-purple?style=flat-square)
 
-My strongest area is **Frontend Development**, especially with:
+#### **Backend, BaaS & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![WebSockets](https://img.shields.io/badge/RealTime-WebSockets-orange?style=flat-square)
 
-* ⚛️ React.js
-* ▲ Next.js
-* 🔷 TypeScript
-* 🟨 JavaScript
-* 🎨 Tailwind CSS
-* 🧩 Component-Based Architecture
-* 📱 Responsive Web Development
-
-Alongside frontend development, I work across the full stack with **Node.js, Express.js, Python, REST APIs, authentication, databases, WebSocket, and AI-powered application development**.
-
-I'm also interested in building **RAG and LLM-powered applications** and using AI-assisted development tools to improve software development workflows.
-
----
-
-## 🧠 What I Do
-
-```text
-Frontend Development
-        ↓
-React.js + Next.js + TypeScript
-        ↓
-Responsive UI + Component Architecture
-        ↓
-REST APIs + Authentication + WebSocket
-        ↓
-Node.js + Express.js + Python
-        ↓
-PostgreSQL + MongoDB + Supabase + Prisma
-        ↓
-AI Applications + RAG + LLM Integration
-```
+#### **DevOps, Tools & AI Workflows**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-# 🛠️ Tech Stack
+### 🚀 Highlighted Projects
 
-## 🎨 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-
-</p>
-
-### Core Frontend Skills
-
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Responsive Web Design
-* Component-Based Architecture
-* Frontend Architecture
+| Project | Tech Stack | Key Capabilities |
+| :--- | :--- | :--- |
+| **Full-Stack E-Commerce Platform** | `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Stripe` | **Role: Team Lead & Full-Stack Developer**<br/>• Led development team coordination for ~1 year.<br/>• Customer, Seller, and Admin dashboards with RBAC.<br/>• Secure Stripe payment flows and Prisma schema optimization. |
+| **Next Thekana** | `Next.js` `TypeScript` `REST API` `WebSockets` `Tailwind CSS` | **Role: Frontend Developer & Collaborator**<br/>• Real-time property and rental discovery platform.<br/>• Integrated WebSockets for dynamic live updates.<br/>• Mobile-first modular UI architecture. |
+| **Rentiful** | `Next.js` `React` `TypeScript` `Tailwind CSS` | **Role: Frontend Developer**<br/>• Modern property exploration and rental web app.<br/>• Reusable UI component systems and optimized client routing. |
+| **Invoice Generator** | `React.js` `TypeScript` `Tailwind CSS` | **Role: Frontend Developer**<br/>• Dynamic financial calculations (taxes, discounts, totals).<br/>• State-driven form workflows and exportable invoice layouts. |
 
 ---
 
-## 🔄 State Management
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=redux" />
-
-</p>
-
-* React Context API
-* Redux
-* Zustand
-
-I choose state-management solutions based on application size, complexity, and requirements.
-
----
-
-# ⚙️ Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,go" />
-
-</p>
-
-### Technologies
-
-* Node.js
-* Express.js
-* NestJS
-* Python
-* Go / Golang
-* REST APIs
-* JWT Authentication
-* Authorization
-* WebSocket
-* gRPC
-
----
-
-# 🗄️ Database & Data
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
-
-</p>
-
-### Technologies
-
-* PostgreSQL
-* MongoDB
-* Supabase
-* Prisma
-* Redis
-* Firebase
-
-### Experience
-
-* Database-driven applications
-* CRUD operations
-* Data modeling
-* ORM-based development
-* Authentication data flows
-* API/database integration
-* Real-time data
-* Caching
-
----
-
-# 🤖 AI & RAG Development
-
-I'm actively building software that combines modern web technologies with AI.
-
-### 🧠 AI Capabilities
-
-* Retrieval-Augmented Generation (RAG)
-* LLM Integration
-* Retrieval Pipelines
-* Embeddings
-* Vector Search Concepts
-* Knowledge Base Applications
-* Document-Based AI Applications
-* AI-powered Question Answering
-* AI Application Backend Workflows
-
-### 🔥 RAG Workflow
-
-```text
-Documents / Knowledge Sources
-            ↓
-       Document Processing
-            ↓
-         Embeddings
-            ↓
-       Vector Search
-            ↓
-    Relevant Context Retrieval
-            ↓
-          LLM
-            ↓
-     AI Generated Response
-```
-
----
-
-# 🤖 AI-Assisted Software Development
-
-AI-assisted development is an important part of my engineering workflow.
-
-### Tools I Work With
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
-
-</p>
-
-### I use AI for
-
-* 🔍 Codebase exploration
-* 🏗️ Feature implementation
-* 🐛 Debugging
-* ♻️ Refactoring
-* 🧪 Testing assistance
-* 🚀 Prototyping
-* 🔌 API implementation
-* 📚 Documentation
-* 🧠 Technical problem solving
-* ⚡ Development workflow automation
-
-> AI is a development assistant in my workflow — not a replacement for engineering judgment.
-
-I maintain control over:
-
-**Architecture • Security • Testing • Debugging • Code Quality • Technical Decisions • Final Implementation**
-
----
-
-# 🏗️ Backend & Distributed Systems
-
-### Working Knowledge / Exposure
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,rabbitmq,aws" />
-
-</p>
-
-* Microservices
-* Service-Based Architecture
-* API Gateway
-* gRPC
-* Kafka
-* RabbitMQ
-* Redis
-* Docker
-* Kubernetes
-* AWS
-* Nx Monorepo
-
----
-
-# 🔐 Authentication & Real-Time
-
-I can work with:
-
-* JWT Authentication
-* Authorization
-* Role-Based Access Control
-* REST APIs
-* WebSocket
-* Real-Time Data
-* Secure Frontend/Backend Communication
-
----
-
-# 🚀 Featured Projects
-
-## 🏠 Rentiful
-
-A modern rental-focused web application.
-
-**Tech Stack**
-
-`Next.js` `React.js` `TypeScript` `Tailwind CSS`
-
-🔗 **Repository:**
-https://github.com/asifrayhanjoy/Rentiful
-
----
-
-## 🛒 E-Commerce Platform
-
-A full-stack e-commerce platform with product, seller, admin, order-management, authentication, API integration, and database-driven functionality.
-
-**Tech Stack**
-
-`React.js` `Next.js` `Node.js` `Express.js` `REST API` `PostgreSQL` `MongoDB` `Prisma`
-
----
-
-## 🏠 Next Thekana
-
-A team-based rental and service-focused web platform with property and hostel-related features.
-
-**Tech Stack**
-
-`Next.js` `React.js` `TypeScript` `REST API` `WebSocket`
-
-**Focus**
-
-`Responsive UI` `API Integration` `Real-Time Features` `Team Collaboration`
-
----
-
-## 🧾 Invoice Generator
-
-A responsive invoice-generation web application with dynamic forms and invoice data management.
-
-**Tech Stack**
-
-`React.js` `JavaScript` `TypeScript` `Tailwind CSS`
-
----
-
-## 🏥 PH Healthcare
-
-A healthcare-focused web application with responsive frontend development and backend/API integration.
-
-**Tech Stack**
-
-`Frontend Development` `API Integration` `Responsive Web Development`
-
----
-
-# 📊 GitHub Statistics
+### 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=asifrayhanjoy&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifrayhanjoy&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-⚛️ Advanced React.js
-▲ Next.js Architecture
-🔷 TypeScript
-🐍 Python
-🔗 Full-Stack Development
-🧠 RAG & AI Applications
-🤖 AI-Assisted Development
-🏗️ Backend Architecture
-☁️ Cloud & DevOps
-📐 System Design
-```
-
----
-
-# 💡 Development Philosophy
-
-> Build simple.
-> Think scalable.
-> Write maintainable code.
-> Use AI intelligently.
-> Keep engineering decisions human-driven.
-
-I believe good software is not only about making something work — it's about building solutions that are **maintainable, understandable, scalable, and useful to real users**.
-
----
-
-# 🌍 Languages
-
-* 🇧🇩 Bangla / Bengali
-* 🇬🇧 English
-* 🇮🇳 Hindi
-* 🕌 Urdu
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mdasifrayhanjoy2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://portfolio-neon-omega-77.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-asif-rayhan-joy-4177372a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/asifrayhanjoy">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something useful together. 🚀**
-
+  <b>Let's build something impactful together!</b><br/>
+  📩 <a href="mailto:mdasifrayhanjoy2@gmail.com">mdasifrayhanjoy2@gmail.com</a> | 🌐 <a href="https://portfolio-neon-omega-77.vercel.app/">Portfolio</a> | 📱 +880 1302271472
 </div>
