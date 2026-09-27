@@ -97,3 +97,158 @@ I am a **Full-Stack Software Engineer & Browser Systems Architect** with ~2 year
 ---
 
 ### 🏛️ Engineering Philosophy & Core Principles
+
+
+┌─────────────────────────┐       ┌─────────────────────────┐       ┌─────────────────────────┐
+│   Zero-Compromise Types │ ───>  │  Decoupled Architecture │ ───>  │   Reliable Automation   │
+│ Strict TS, Data Schemas │       │  REST, WebSockets, RBAC │       │  MutationObservers, MV3 │
+└─────────────────────────┘       └─────────────────────────┘       └─────────────────────────┘
+
+
+* **Type Safety Over Speculation:** End-to-end data safety from PostgreSQL database schemas via Prisma down to React props, eliminating standard runtime bugs.
+* **Deterministic Execution:** Engineered browser extensions and UI hooks with isolated state guards to avoid infinite execution loops, race conditions, and DOM stutter.
+* **Pragmatic Delivery:** Bridging fast iterative prototypes with production scalability, ensuring clean documentation, robust error boundaries, and zero-downtime deployment pipelines.
+
+---
+
+### 🚀 Key Production Artifacts & Flagship Deliverables
+
+<table>
+  <thead>
+    <tr>
+      <th width="28%">System / Project</th>
+      <th width="48%">Architectural Highlights & Technical Breakdown</th>
+      <th width="24%">Stack & Leadership</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>YouTube Cleaner</b><br/>
+        <sub>Browser Systems Tooling</sub>
+      </td>
+      <td>
+        • Engineered a production browser extension utilizing the <b>Plasmo framework</b> under <b>Chrome Manifest V3</b>.<br/>
+        • Handled complex Single Page Application (SPA) navigation hooks by capturing <code>yt-navigate-finish</code> custom events.<br/>
+        • Implemented dynamic <code>MutationObserver</code> engines with debounced state guards to eliminate DOM thrashing and prevent media stutter.
+      </td>
+      <td>
+        <b>Creator & Architect</b><br/>
+        <code>TypeScript</code> <code>Plasmo</code> <code>Manifest V3</code> <code>DOM APIs</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Full-Stack E-Commerce Platform</b><br/>
+        <sub>Multi-Portal Enterprise Suite</sub>
+      </td>
+      <td>
+        • Directed sprint cadence, PR code reviews, and delivery as <b>Team Lead (~1 Year)</b>.<br/>
+        • Architected isolated customer, merchant, and administrative portals with granular <b>Role-Based Access Control (RBAC)</b> and token-rotation JWT authentication.<br/>
+        • Structured normalized schemas in <b>PostgreSQL via Prisma ORM</b>, integrating idempotent <b>Stripe payment webhooks</b> and real-time order states.
+      </td>
+      <td>
+        <b>Team Lead & Full-Stack</b><br/>
+        <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Stripe</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Next Thekana</b><br/>
+        <sub>Real-Time Rental Discovery</sub>
+      </td>
+      <td>
+        • Engineered real-time property discovery and interactive exploration modules using Next.js and Tailwind CSS.<br/>
+        • Designed dynamic communication channels with <b>WebSockets</b> to stream real-time booking status changes to the client without page refreshes.<br/>
+        • Enforced clean component boundaries and optimized rendering latency across mobile and desktop viewports.
+      </td>
+      <td>
+        <b>Frontend & Collaborator</b><br/>
+        <code>Next.js</code> <code>TypeScript</code> <code>REST API</code> <code>WebSockets</code> <code>Tailwind</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Rentiful & Financial Tools</b><br/>
+        <sub>Document & Workflow Engines</sub>
+      </td>
+      <td>
+        • Architected a responsive property exploration app featuring debounced search query pipelines.<br/>
+        • Developed an in-browser dynamic calculation engine for line items, custom taxes, and itemized cost breakdowns with print-ready vector exports.
+      </td>
+      <td>
+        <b>Frontend Engineer</b><br/>
+        <code>React.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>State Engine</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📊 GitHub Activity & Performance Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=asifrayhanjoy&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=asifrayhanjoy&show_icons=true&theme=tokyonight&hide_border=true" width="420" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asifrayhanjoy&layout=compact&theme=tokyonight&hide_border=true" width="550" alt="Top Languages" />
+</div>
+
+---
+
+### 🎮 The Contribution Arcade & Interactive Grid
+
+<div align="center">
+  <p><b>Watch the contribution snake navigate my commit history across production repositories:</b></p>
+  
+  <!-- Contribution Grid Snake Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>🕹️ Quick developer break? Test your reflexes with classic retro web games:</b></p>
+
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🐍_Classic_Snake-22c55e?style=for-the-badge&logo=gamepad&logoColor=white" alt="Snake"/>
+  </a>
+  &nbsp;
+  <a href="https://freepacman.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🟡_Pac--Man-eab308?style=for-the-badge&logo=nintendo&logoColor=black" alt="Pacman"/>
+  </a>
+  &nbsp;
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/🟦_Classic_Tetris-3b82f6?style=for-the-badge&logo=steam&logoColor=white" alt="Tetris"/>
+  </a>
+  &nbsp;
+  <a href="https://2048game.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🔢_2048_Puzzle-a855f7?style=for-the-badge&logo=googleplay&logoColor=white" alt="2048"/>
+  </a>
+</div>
+
+---
+
+### 🤝 Let's Collaborate On Global Products
+
+<div align="center">
+  <p>I am actively exploring <b>Full-Stack Engineering, Frontend Architecture, and Remote Contract</b> engagements worldwide.</p>
+
+  <p>
+    <b>Direct Email:</b> <a href="mailto:mdasifrayhanjoy2@gmail.com">mdasifrayhanjoy2@gmail.com</a> &nbsp;•&nbsp;
+    <b>Portfolio:</b> <a href="https://portfolio-neon-omega-77.vercel.app/" target="_blank">portfolio-neon-omega-77.vercel.app</a> &nbsp;•&nbsp;
+    <b>WhatsApp / Direct:</b> +880 1302271472
+  </p>
+  
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0284c7,50:1e1b4b,100:030712&height=120&section=footer" width="100%" alt="Footer Banner"/>
+</div>
