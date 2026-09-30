@@ -38,7 +38,7 @@
 I am a **Full-Stack Software Engineer & Browser Systems Architect** with ~2 years of hands-on production experience engineering end-to-end web applications, resilient backend architectures, and high-performance browser extension utilities. My engineering approach combines strict type safety, modular micro-component design, and clean data contracts.
 
 - 🏗️ **Core Competencies:** Modern enterprise frontends using **Next.js (App Router), React 19, TypeScript**, paired with decoupled backend engines powered by **Node.js, Express, Python, and PostgreSQL**.
-- 🧩 **Low-Level Browser Engineering:** Deep expertise in **Chrome Manifest V3 and the Plasmo framework**. Specialized in navigating dynamic Single Page Application (SPA) DOM lifecycles, event debouncing, and memory-safe `MutationObserver` pipelines without frame latency.
+- 🧩 **High-Level Browser Engineering:** Deep expertise in **Chrome Manifest V3 and the Plasmo framework**. Specialized in navigating dynamic Single Page Application (SPA) DOM lifecycles, event debouncing, and memory-safe `MutationObserver` pipelines without frame latency.
 - 🎯 **Leadership & Delivery:** Former **Development Team Lead (~1 year)** directing sprint roadmaps, instituting code review standards, mentoring engineers, and executing idempotent payment integrations (Stripe) and JWT/RBAC security pipelines.
 - ⚡ **AI-Augmented Velocity:** Deeply integrated AI engineering tools (**Cursor, Claude Code**) into the development lifecycle—maximizing shipping velocity while maintaining rigorous architecture review, safety guards, and code correctness.
 - 🌍 **Engagement Model:** Actively available for remote software engineering contracts, B2B arrangements, and full-time global engineering roles.
