@@ -4,7 +4,7 @@
 
   <!-- Live Multi-Line Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=880&lines=Full-Stack+Engineer+%7C+React%2C+Next.js+(App+Router)%2C+TypeScript+%26+Node.js;Low-Level+Browser+Tooling+Architect+(Chrome+Manifest+V3+%26+Plasmo);Backend+Engineering+with+PostgreSQL%2C+Prisma+ORM%2C+Python+%26+Supabase;High-Reliability+State+Engines%2C+WebSockets+%26+Zero-Downtime+APIs;Autonomous+Builder+shipping+production-grade+software+globally" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=880&lines=Full-Stack+Engineer+%7C+React%2C+Next.js+(App+Router)%2C+TypeScript+%26+Node.js;High-Level+Browser+Tooling+Architect+(Chrome+Manifest+V3+%26+Plasmo);Backend+Engineering+with+PostgreSQL%2C+Prisma+ORM%2C+Python+%26+Supabase;High-Reliability+State+Engines%2C+WebSockets+%26+Zero-Downtime+APIs;Autonomous+Builder+shipping+production-grade+software+globally" alt="Typing SVG" />
   </a>
 
   <br/><br/>
