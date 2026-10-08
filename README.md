@@ -44,18 +44,13 @@
 
 ---
 
-### 👨‍💻 Executive Engineering Profile & Technical Leadership
-
-I am a **Full-Stack Software Engineer & Technical Team Lead** with **3 years of professional engineering experience** shipping complex, scalable web platforms, real-time reactive backends, and low-latency client-side browser extensions. 
-
-My architectural ethos emphasizes **strict compile-time type guarantees**, end-to-end modularity, decoupled services, and predictable, deterministic state lifecycles.
-
-                ┌──────────────────────────────────────────────┐
-                │      FULL-STACK ARCHITECTURE SPECTRUM        │
-                └──────────────────────────────────────────────┘
-                                       │
-     ┌─────────────────────────────────┴─────────────────────────────────┐
-     ▼                                                                   ▼
+```text
+                    ┌──────────────────────────────────────────────┐
+                    │      FULL-STACK ARCHITECTURE SPECTRUM        │
+                    └──────────────────────────────────────────────┘
+                                           │
+         ┌─────────────────────────────────┴─────────────────────────────────┐
+         ▼                                                                   ▼
 ┌─────────────────────────────────┐                         ┌─────────────────────────────────┐
 │       FRONTEND & TOOLING        │                         │       BACKEND & PLATFORMS       │
 ├─────────────────────────────────┤                         ├─────────────────────────────────┤
@@ -64,8 +59,6 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
 │ • Plasmo Framework (Manifest V3)│                         │ • MongoDB, Supabase & WebSockets│
 │ • MutationObserver & SPA Hooks  │                         │ • JWT Rotation, RBAC & Auth     │
 └─────────────────────────────────┘                         └─────────────────────────────────┘
-
-
 #### Key Highlights & Leadership Impact:
 - 🏗️ **Core Full-Stack Capabilities:** Designing production-grade web systems across **Next.js (Server/Client components, SSR, ISR), React, TypeScript, Node.js, Express, and Python**.
 - 🎯 **Engineering Leadership at DigiVibe:** Directing daily standups, technical sprint roadmaps, architecture decision records (ADRs), pull request code quality, and idempotent service workflows across multiple engineering modules.
