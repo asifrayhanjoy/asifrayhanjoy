@@ -67,7 +67,7 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
 
 
 #### Key Highlights & Leadership Impact:
-- 🏗️ **Core Full-Stack Capabilities:** Designing production-grade web systems across **Next.js (Server/Client components, SSR, ISR), React, TypeScript, Node.js, Express, and Python**.
+- 🏗️ **Core Full-Stack Capabilities:** Designing production-grade web systems across **Next.js (Server/Client components, SSR, ISR), React, TypeScript, Node.js, Express, Go (Golang), and Python**.
 - 🎯 **Engineering Leadership at DigiVibe:** Directing daily standups, technical sprint roadmaps, architecture decision records (ADRs), pull request code quality, and idempotent service workflows across multiple engineering modules.
 - 🧩 **Specialized Browser Systems Engineering:** Building sophisticated Chrome extensions using **Manifest V3 and Plasmo**. Deep expertise handling Single Page Application (SPA) navigation lifecycles (`yt-navigate-finish`), memory-efficient `MutationObserver` routines, isolated extension world messaging, and dynamic DOM injection.
 - 🔐 **Security & Access Control:** Architected robust multi-tenant authentication protocols, token-rotation JWT security, and fine-grained Role-Based Access Control (RBAC) across customer, merchant, and internal administrative dashboards.
