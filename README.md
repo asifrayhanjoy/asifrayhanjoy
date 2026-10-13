@@ -57,7 +57,7 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
      ┌─────────────────────────────────┴─────────────────────────────────┐
      ▼                                                                   ▼
 ┌─────────────────────────────────┐                         ┌─────────────────────────────────┐
-│       FRONTEND & TOOLING        │                         │       BACKEND & PLATFORMS       │
+│        FRONTEND & TOOLING       │                         │       BACKEND & PLATFORMS       │
 ├─────────────────────────────────┤                         ├─────────────────────────────────┤
 │ • Next.js (App & Pages Router)  │                         │ • Node.js, Express & Python     │
 │ • React 19, TypeScript, Tailwind│                         │ • PostgreSQL (Prisma ORM)       │
@@ -68,10 +68,10 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
 
 #### Key Highlights & Leadership Impact:
 - 🏗️ **Core Full-Stack Capabilities:** Designing production-grade web systems across **Next.js (Server/Client components, SSR, ISR), React, TypeScript, Node.js, Express, Go (Golang), and Python**.
-- 🎯 **Engineering Leadership at DigiVibe:** Directing daily standups, technical sprint roadmaps, architecture decision records (ADRs), pull request code quality, and idempotent service workflows across multiple engineering modules.
-- 🧩 **Specialized Browser Systems Engineering:** Building sophisticated Chrome extensions using **Manifest V3 and Plasmo**. Deep expertise handling Single Page Application (SPA) navigation lifecycles (`yt-navigate-finish`), memory-efficient `MutationObserver` routines, isolated extension world messaging, and dynamic DOM injection.
-- 🔐 **Security & Access Control:** Architected robust multi-tenant authentication protocols, token-rotation JWT security, and fine-grained Role-Based Access Control (RBAC) across customer, merchant, and internal administrative dashboards.
-- ⚡ **AI-Accelerated Engineering:** Integrated AI coding workflows (**Cursor, Claude Code**) directly into day-to-day delivery to rapidly build, refactor, and write test suites while preserving complete human control over architecture, design patterns, and code safety.
+- 🎯 **Engineering Leadership at DigiVibe:** Directing daily standups, technical sprint roadmaps, architecture decision records (ADRs), pull request code quality, and idempotent service workflows across multiple engineering modules[cite: 1, 5].
+- 🧩 **Specialized Browser Systems Engineering:** Building sophisticated Chrome extensions using **Manifest V3 and Plasmo**. Deep expertise handling Single Page Application (SPA) navigation lifecycles (`yt-navigate-finish`), memory-efficient `MutationObserver` routines, isolated extension world messaging, and dynamic DOM injection[cite: 1, 5].
+- 🔐 **Security & Access Control:** Architected robust multi-tenant authentication protocols, token-rotation JWT security, and fine-grained Role-Based Access Control (RBAC) across customer, merchant, and internal administrative dashboards[cite: 1, 5].
+- ⚡ **AI-Accelerated Engineering:** Integrated AI coding workflows (**Cursor, Claude Code**) directly into day-to-day delivery to rapidly build, refactor, and write test suites while preserving complete human control over architecture, design patterns, and code safety[cite: 1].
 
 ---
 
@@ -178,7 +178,7 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
       <td>
         <b><a href="https://digi-vibe.vercel.app/en" target="_blank">DigiVibe E-Commerce Platform</a></b><br/>
         <sub>Multi-Portal Commercial Suite</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Production-Live-success?style=flat-square"/>
+        <a href="https://digi-vibe.vercel.app/en" target="_blank"><img src="https://img.shields.io/badge/Production-Live%20Demo-success?style=flat-square"/></a>
       </td>
       <td>
         • <b>Technical Team Lead:</b> Spearheaded the end-to-end architecture, sprint cycles, task delegation, and PR code reviews for a multi-portal commercial ecosystem.<br/>
@@ -201,9 +201,9 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
     </tr>
     <tr>
       <td>
-        <b>YouTube Cleaner</b><br/>
+        <b><a href="https://youtube-cleaner-web.vercel.app/" target="_blank">YouTube Cleaner</a></b><br/>
         <sub>Specialized Browser Automation Tooling</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Chrome_MV3-Compliant-blue?style=flat-square"/>
+        <a href="https://youtube-cleaner-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Chrome_MV3-Live%20App-blue?style=flat-square"/></a>
       </td>
       <td>
         • <b>Extension Architecture:</b> Engineered a high-performance utility extension on <b>Chrome Manifest V3</b> using the <b>Plasmo framework</b> and TypeScript.<br/>
@@ -221,14 +221,33 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
     </tr>
     <tr>
       <td>
+        <b><a href="https://my-app-tl6i.vercel.app/" target="_blank">Rentiful & Invoice Generator</a></b><br/>
+        <sub>Utility & Calculation Engines (My App)</sub><br/><br/>
+        <a href="https://my-app-tl6i.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-Verified_Deploy-brightgreen?style=flat-square"/></a>
+      </td>
+      <td>
+        • <b>Dynamic Financial Mathematics:</b> Built an in-browser calculations engine computing line items, discounts, localized VAT/tax splits, and net payouts[cite: 4].<br/>
+        • <b>Document Generation:</b> Designed automated client-side vector invoice exports (PDF) with print-ready CSS stylesheets[cite: 4].<br/>
+        • <b>Modular State:</b> Architected reusable calculation hooks with extensive unit test coverage[cite: 4].
+      </td>
+      <td>
+        <b>Frontend Engineer</b><br/><br/>
+        <code>React.js</code><br/>
+        <code>TypeScript</code><br/>
+        <code>Tailwind CSS</code><br/>
+        <code>State Management</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <b>ByteSpace Prototype</b><br/>
         <sub>Technical Assessment & Evaluation System</sub><br/><br/>
         <img src="https://img.shields.io/badge/Evaluation-High_Fidelity-purple?style=flat-square"/>
       </td>
       <td>
-        • <b>Rapid Execution:</b> Architected and deployed an end-to-end full-stack prototype under strict evaluation timeframes.<br/>
+        • <b>Rapid Execution:</b> Architected and deployed an end-to-end full-stack prototype under strict evaluation timeframes[cite: 3].<br/>
         • <b>Component-Driven UI:</b> Implemented a clean, modern landing platform using Next.js, React, and Tailwind CSS with responsive layout standards.<br/>
-        • <b>Multi-Database Pipeline:</b> Configured dual-layer persistence combining PostgreSQL and MongoDB, validating strict schema contracts and deploying zero-friction builds to Vercel via GitHub pull requests.
+        • <b>Multi-Database Pipeline:</b> Configured dual-layer persistence combining PostgreSQL and MongoDB, validating strict schema contracts and deploying zero-friction builds to Vercel via GitHub pull requests[cite: 3].
       </td>
       <td>
         <b>Full-Stack Developer</b><br/><br/>
@@ -247,9 +266,9 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
         <img src="https://img.shields.io/badge/Real--Time-WebSockets-orange?style=flat-square"/>
       </td>
       <td>
-        • <b>Live Data Feeds:</b> Integrated bidirectional <b>WebSockets</b> to stream real-time property availability, price updates, and booking confirmations without client polling.<br/>
-        • <b>Interactive UI:</b> Crafted search filters, geo-coordinate discovery modules, and debounced queries using Next.js and Tailwind CSS.<br/>
-        • <b>State Synchronization:</b> Maintained high render efficiency and cross-device responsiveness with optimistic UI updates.
+        • <b>Live Data Feeds:</b> Integrated bidirectional <b>WebSockets</b> to stream real-time property availability, price updates, and booking confirmations without client polling[cite: 3].<br/>
+        • <b>Interactive UI:</b> Crafted search filters, geo-coordinate discovery modules, and debounced queries using Next.js and Tailwind CSS[cite: 3].<br/>
+        • <b>State Synchronization:</b> Maintained high render efficiency and cross-device responsiveness with optimistic UI updates[cite: 3].
       </td>
       <td>
         <b>Full-Stack Collaborator</b><br/><br/>
@@ -258,25 +277,6 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
         <code>WebSockets</code><br/>
         <code>Node.js</code><br/>
         <code>Tailwind CSS</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Rentiful & Invoice Generator</b><br/>
-        <sub>Utility & Calculation Engines</sub><br/><br/>
-        <img src="https://img.shields.io/badge/Utility-Financial_Tools-brightgreen?style=flat-square"/>
-      </td>
-      <td>
-        • <b>Dynamic Financial Mathematics:</b> Built an in-browser calculations engine computing line items, discounts, localized VAT/tax splits, and net payouts.<br/>
-        • <b>Document Generation:</b> Designed automated client-side vector invoice exports (PDF) with print-ready CSS stylesheets.<br/>
-        • <b>Modular State:</b> Architected reusable calculation hooks with extensive unit test coverage.
-      </td>
-      <td>
-        <b>Frontend Engineer</b><br/><br/>
-        <code>React.js</code><br/>
-        <code>TypeScript</code><br/>
-        <code>Tailwind CSS</code><br/>
-        <code>State Management</code>
       </td>
     </tr>
   </tbody>
@@ -339,7 +339,7 @@ My architectural ethos emphasizes **strict compile-time type guarantees**, end-t
 ### 🤝 Global Engagements & Collaboration Channels
 
 <div align="center">
-  <p>I am actively exploring <b>Full-Stack Engineering roles, Browser Systems Architecture, and Remote Software Contracts</b> globally.</p>
+  <p>I am actively exploring <b>Full-Stack Engineering roles, Browser Systems Architecture, and Remote Software Contracts</b> globally[cite: 1, 5].</p>
 
   <table>
     <tr>
